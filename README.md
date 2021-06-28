@@ -1,28 +1,28 @@
-# A Practical Introduction to Prisma
+# 실용적인 Prisma 예제
 
-This repository contains the starter project for the **A Practical Introduction to Prisma** workshop by [Nikolas Burk](https://twitter.com/nikolasburk).
+이 저장소에는 [Nikolas Burk](https://twitter.com/nikolasburk)의 **A Practical Introduction to Prisma** 워크숍의 스타터 프로젝트가 포함되어 있습니다.
 
-## Setup
+## 설치
 
-### 1. Clone this repository
+### 1. 리포지토리 클론
 
-You can clone this repository with the following command:
+다음 명령어를 사용하여 저장소를 복제할 수 있습니다:
 
 ```
-git clone git@github.com:nikolasburk/prisma-workshop.git
+https://github.com/hyochan/prisma-workshop.git
 ```
 
-> Alternatively, you can also download the project via the GitHub UI. Click the green **Code**-button in the top-right corner and then click on **Download ZIP**.
+> 또는 GitHub UI를 통해 프로젝트를 다운로드 할 수 있습니다. 오른쪽 상단에있는 녹색 **Code** 버튼을 클릭 한 다음 **Downoad ZIP**을 클릭합니다.
 
-### 2. Install dependencies
+### 2. 의존성 설치
 
-Navigate into the project directory and install the npm dependencies with the following command:
+프로젝트 디렉터리로 이동하고 다음 명령을 사용하여 npm 종속성을 설치합니다:
 
 ```
 cd prisma-workshop
-npm install
+npm install // 또는 yarn
 ```
 
-## Workshop
+## 워크숍
 
-You can find all the info for following the workshop [here]().
+워크숍 진행에 대한 모든 정보는 [여기](https://pris.ly/day2021-intro-kr)에서 확인할 수 있습니다.
