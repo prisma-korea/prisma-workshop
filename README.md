@@ -26,3 +26,7 @@ npm install // 또는 yarn
 ## 워크숍
 
 워크숍 진행에 대한 모든 정보는 [여기](https://pris.ly/day2021-intro-kr)에서 확인할 수 있습니다.
+
+## 블로그
+
+현 레포에서 진행하는 모든 튜토리얼을 한눈에 보고 싶으시면 [미디엄 블로그](https://medium.com/prisma-korea/%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-prisma-%EC%98%88%EC%A0%9C-5ad2bd13768f?source=collection_home---7------0-----------------------)를 참고해주세요.
